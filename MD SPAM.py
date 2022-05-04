@@ -8,12 +8,13 @@ def banner():
 
     os.system('''
     printf "\n"
- printf "                          e    e           e      888     888     888   |       888~-_   888   | 888~-_   888~~~  \n"
- printf "                         d8b  d8b         d8b     888     888     888   |       888   \  888   | 888   \  888___  \n"
- printf "                        d888bdY88b       /Y88b    888     888     888   |       888    | 888   | 888    | 888     \n"
- printf "                       / Y88Y Y888b     /  Y88b   888     888     888   |       888    | 888   | 888    | 888    \n"
- printf "                      /   YY   Y888b   /____Y88b  888     888     Y88   |       888   /  Y88   | 888   /  888    \n"
- printf "                     /          Y888b /      Y88b 888____ 888____  "8__/        888_-~    "8__/  888_-~   888___  \n"
+ printf "                     e   e          e      88     88      88   |       888~-_   888   | 888~-_   888~~~  \n"
+ printf "                    d8b  db         db     88     88     888   |       888   \  888   | 888   \  888___  \n"
+ printf "                   d888bdY8b       /Y8b    88     88     888   |       888    | 888   | 888    | 888     \n"
+ printf "                  / Y88Y Y88b     /  Y8b   88     88     888   |       888    | 888   | 888    | 888     \n"
+ printf "                 /   YY   Y88b   /____Y8b  88     88     Y88   |       888   /  Y88   | 888   /  888     \n"
+ printf "                /          Y88b /      Y8b 88____ 88____  "8__/        888_-~    "8__/  888_-~   888___  \n"
+ 
     printf "                                                                    BY MALLU DUDE  \n\n"
     printf "\e[1;32m                   ╔═<><><><><><><><><><><><><><><><><><><><><><><><><><><>═╗\n"
     printf "\e[1;32m                   ║    \e[0m\e[1;95m OTP Bombing POWERFULL CRACKING SCRIPT     \e[1;32m║\n"
