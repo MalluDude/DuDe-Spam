@@ -1,0 +1,16 @@
+from time import sleep
+import sys
+
+string = """ MALLU DUDE : MALLU DUDE
+
+ɢɪᴛʜᴜʙ : MALLU DUDE
+
+ɪɴsᴛᴀɢʀᴀᴍ :KL_DUDE_04
+
+
+
+ᴇᴍᴀɪʟ : malludude04@gmail.com  """
+for letter in string:
+  sleep(0.01) 
+  sys.stdout.write(letter)
+  sys.stdout.flush()
