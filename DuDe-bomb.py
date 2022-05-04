@@ -9,7 +9,7 @@ def banner():
     os.system('''
     printf "\n"
     printf "\e[1;32m                   ╔═<><><><><><><><><><><><><><><><><><><><><><><><><><><>═╗\n"
-    printf "\e[1;32m                   ║     \e[0m\e[1;95m OTP Bombing POWERFULL CRACKING SCRIPT     \e[1;32m        ║\n"
+    printf "\e[1;32m                   ║         \e[0m\e[1;95m OTP Bombing POWERFULL CRACKING SCRIPT     \e[1;32m    ║\n"
     printf "\e[1;32m                              \e[0m\e[1;95m Developed by:\e[31m MALLU DUDE      \n"
     printf "\e[1;32m                   ║\e[0m\e[1;95m  ONLY INDIAN MOBILE NUMBERS ARE CURRENTLY SUPPOTED NOW \e[1;32m║\n"
     printf "\e[1;32m                   ╚═<><><><><><><><><><><><><><><><><><><><><><><><><><><>═╝\n"
