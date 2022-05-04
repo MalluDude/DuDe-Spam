@@ -17,7 +17,7 @@ def banner():
     printf "                                                                    BY MONSTER LALLU  \n\n"
     printf "\e[1;32m                   ╔═<><><><><><><><><><><><><><><><><><><><><><><><><><><>═╗\n"
     printf "\e[1;32m                   ║    \e[0m\e[1;95m OTP and CALL Bombing POWERFULL CRACKING SCRIPT     \e[1;32m║\n"
-    printf "\e[1;32m                              \e[0m\e[1;95m Developed by:\e[31m MONSTER LALLU OFFICIAL      \n"
+    printf "\e[1;32m                              \e[0m\e[1;95m Developed by:\e[31m MALLU DUDE      \n"
     printf "\e[1;32m                   ║\e[0m\e[1;95m  ONLY INDIAN MOBILE NUMBERS ARE CURRENTLY SUPPOTED NOW \e[1;32m║\n"
     printf "\e[1;32m                   ╚═<><><><><><><><><><><><><><><><><><><><><><><><><><><>═╝\n"
     printf "\n"
@@ -46,7 +46,7 @@ if choice == "1":
 elif choice == "2":
    os.system("python3 ml_about")
 elif choice == "3":
-   os.system("termux-open-url https://instagram.com/cybercrackerofficial")
+   os.system("termux-open-url https://instagram.com/kl_dude_04")
 else:
     print ("invild option try again !")
 
