@@ -41,10 +41,10 @@ banner()
 choice = input('      ᴇɴᴛᴇʀ ᴀɴ ᴏᴘᴛɪᴏɴ : ')
 
 if choice == "1":
-   os.system("python3 ml_main")
+   os.system("python3 md_main")
 
 elif choice == "2":
-   os.system("python3 ml_about")
+   os.system("python3 md_about")
 elif choice == "3":
    os.system("termux-open-url https://instagram.com/kl_dude_04")
 else:
