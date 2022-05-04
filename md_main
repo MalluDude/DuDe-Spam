@@ -541,5 +541,5 @@ elif len(target) == 10 and msgs <= max:
     print("Successfully spermed !!!...")
 else:
     print(
-        "Please Enter the correct Phone Number & SMS count or contact MALLU DUDE for queries (instagram: @kl_dude_04)"
+        "Please Enter the correct Phone Number & SMS count or contact MALLU DUDE for queries (instagram: @malludude004)"
     )
