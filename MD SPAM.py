@@ -46,7 +46,7 @@ if choice == "1":
 elif choice == "2":
    os.system("python3 md_about")
 elif choice == "3":
-   os.system("termux-open-url https://instagram.com/kl_dude_04")
+   os.system("termux-open-url https://instagram.com/malludude004")
 else:
     print ("invild option try again !")
 
