@@ -14,14 +14,13 @@ git clone https://github.com/MalluDude/DuDe-Spam.git
 
 cd DuDe-Spam
 
-chmod +x requirement.sh
+chmod +x *
 
 bash requirement.sh
-
-chmod +x *
 
 python3 DuDe-bomb.py
 
 ```
+
 
 ########THIS TOOL NOW ONLY FOR TERMUX#######
